@@ -1,0 +1,201 @@
+isic_id,attribution,copyright_license,age_approx,anatom_site_general,benign_malignant,clin_size_long_diam_mm,dermoscopic_type,diagnosis,diagnosis_confirm_type,image_type,lesion_id,mel_class,mel_mitotic_index,mel_thick_mm,mel_type,mel_ulcer,melanocytic,patient_id,sex,family_hx_mm,personal_hx_mm
+ISIC_0133200,"""Repeated dermoscopic images of melanocytic lesions"" by University Hospital Basel / CC-BY-NC",CC-BY-NC,,,malignant,,contact non-polarized,melanoma,histopathology,dermoscopic,IL_4402356,melanoma in situ,,,,,True,,,,
+ISIC_0550002,Sydney Melanoma Diagnostic Center at Royal Prince Alfred Hospital,CC-BY,85.0,lower extremity,malignant,13.7,,melanoma,histopathology,dermoscopic,IL_1282505,melanoma in situ,,,,,True,IP_5630006,male,,
+ISIC_0961778,Sydney Melanoma Diagnostic Center at Royal Prince Alfred Hospital,CC-BY,75.0,upper extremity,malignant,5.2,,melanoma,histopathology,dermoscopic,IL_2448449,melanoma in situ,,,,,True,IP_4523797,female,,
+ISIC_1309320,"""Repeated dermoscopic images of melanocytic lesions"" by University Hospital Basel / CC-BY-NC",CC-BY-NC,,,malignant,,contact non-polarized,,single image expert consensus,dermoscopic,IL_1351938,,,,,,True,,,,
+ISIC_1435135,"""Repeated dermoscopic images of melanocytic lesions"" by University Hospital Basel / CC-BY-NC",CC-BY-NC,,,malignant,,contact non-polarized,melanoma,histopathology,dermoscopic,IL_4402356,melanoma in situ,,,,,True,,,,
+ISIC_1563835,"""Repeated dermoscopic images of melanocytic lesions"" by University Hospital Basel / CC-BY-NC",CC-BY-NC,,,malignant,,contact non-polarized,,single image expert consensus,dermoscopic,IL_1351938,,,,,,True,,,,
+ISIC_1999338,"""Repeated dermoscopic images of melanocytic lesions"" by University Hospital Basel / CC-BY-NC",CC-BY-NC,,,malignant,,contact non-polarized,melanoma,histopathology,dermoscopic,IL_2086872,invasive melanoma,,0.2,superficial spreading melanoma,,True,,,,
+ISIC_2190396,Sydney Melanoma Diagnostic Center at Royal Prince Alfred Hospital,CC-BY,35.0,posterior torso,malignant,2.8,,melanoma,histopathology,dermoscopic,IL_9326149,melanoma in situ,,,,,True,IP_6334660,male,,
+ISIC_2468476,Sydney Melanoma Diagnostic Center at Royal Prince Alfred Hospital,CC-BY,50.0,lower extremity,malignant,3.2,,melanoma,histopathology,dermoscopic,IL_1235162,melanoma in situ,,,,,True,IP_5078204,male,,
+ISIC_2593104,Sydney Melanoma Diagnostic Center at Royal Prince Alfred Hospital,CC-BY,50.0,lower extremity,malignant,3.3,,melanoma,histopathology,dermoscopic,IL_6019423,melanoma in situ,,,,,True,IP_8910504,male,,
+ISIC_2772824,Sydney Melanoma Diagnostic Center at Royal Prince Alfred Hospital,CC-BY,50.0,head/neck,malignant,4.9,,melanoma,histopathology,dermoscopic,IL_5087915,melanoma in situ,,,,,True,IP_3757165,male,,
+ISIC_3041861,Sydney Melanoma Diagnostic Center at Royal Prince Alfred Hospital,CC-BY,85.0,anterior torso,malignant,9.2,,melanoma,histopathology,dermoscopic,IL_0006755,melanoma in situ,,,,,True,IP_6700171,female,,
+ISIC_3236033,"""Repeated dermoscopic images of melanocytic lesions"" by University Hospital Basel / CC-BY-NC",CC-BY-NC,,,malignant,,contact non-polarized,melanoma,histopathology,dermoscopic,IL_2086872,invasive melanoma,,0.2,superficial spreading melanoma,,True,,,,
+ISIC_3622555,Sydney Melanoma Diagnostic Center at Royal Prince Alfred Hospital,CC-BY,50.0,lower extremity,malignant,7.5,,melanoma,histopathology,dermoscopic,IL_5368862,melanoma in situ,,,,,True,IP_5709181,female,,
+ISIC_3736336,Sydney Melanoma Diagnostic Center at Royal Prince Alfred Hospital,CC-BY,60.0,posterior torso,malignant,7.8,,melanoma,histopathology,dermoscopic,IL_6235184,melanoma in situ,,,,,True,IP_8181377,male,,
+ISIC_3783659,Sydney Melanoma Diagnostic Center at Royal Prince Alfred Hospital,CC-BY,65.0,posterior torso,malignant,8.8,,melanoma,histopathology,dermoscopic,IL_0309038,melanoma in situ,,,,,True,IP_2273278,male,,
+ISIC_3872441,Sydney Melanoma Diagnostic Center at Royal Prince Alfred Hospital,CC-BY,45.0,lower extremity,malignant,1.5,,melanoma,histopathology,dermoscopic,IL_5443460,invasive melanoma,0/mm^2,0.3,,False,True,IP_4714140,female,,
+ISIC_4027194,Sydney Melanoma Diagnostic Center at Royal Prince Alfred Hospital,CC-BY,35.0,lower extremity,malignant,1.8,,melanoma,histopathology,dermoscopic,IL_0687348,melanoma in situ,,,,,True,IP_6770558,female,,
+ISIC_4104206,"""Repeated dermoscopic images of melanocytic lesions"" by University Hospital Basel / CC-BY-NC",CC-BY-NC,,,malignant,,contact non-polarized,,single image expert consensus,dermoscopic,IL_1351938,,,,,,True,,,,
+ISIC_4221304,Sydney Melanoma Diagnostic Center at Royal Prince Alfred Hospital,CC-BY,30.0,lower extremity,malignant,1.7,,melanoma,histopathology,dermoscopic,IL_2261784,melanoma in situ,,,,,True,IP_5704453,female,,
+ISIC_4547332,Sydney Melanoma Diagnostic Center at Royal Prince Alfred Hospital,CC-BY,25.0,posterior torso,malignant,2.9,,melanoma,histopathology,dermoscopic,IL_0454630,melanoma in situ,,,,,True,IP_0549014,female,,
+ISIC_4760555,"""Repeated dermoscopic images of melanocytic lesions"" by University Hospital Basel / CC-BY-NC",CC-BY-NC,,,malignant,,contact non-polarized,,single image expert consensus,dermoscopic,IL_1351938,,,,,,True,,,,
+ISIC_5561187,Sydney Melanoma Diagnostic Center at Royal Prince Alfred Hospital,CC-BY,45.0,lower extremity,malignant,2.2,,melanoma,histopathology,dermoscopic,IL_3808292,melanoma in situ,,,,,True,IP_8500979,male,,
+ISIC_5648033,"""Repeated dermoscopic images of melanocytic lesions"" by University Hospital Basel / CC-BY-NC",CC-BY-NC,,,malignant,,contact non-polarized,melanoma,histopathology,dermoscopic,IL_4402356,melanoma in situ,,,,,True,,,,
+ISIC_5769201,"""Repeated dermoscopic images of melanocytic lesions"" by University Hospital Basel / CC-BY-NC",CC-BY-NC,,,malignant,,contact non-polarized,melanoma,histopathology,dermoscopic,IL_2086872,invasive melanoma,,0.2,superficial spreading melanoma,,True,,,,
+ISIC_6016537,Sydney Melanoma Diagnostic Center at Royal Prince Alfred Hospital,CC-BY,75.0,head/neck,malignant,3.6,,melanoma,histopathology,dermoscopic,IL_5045525,melanoma in situ,,,,,True,IP_0549683,male,,
+ISIC_6275817,Sydney Melanoma Diagnostic Center at Royal Prince Alfred Hospital,CC-BY,40.0,anterior torso,malignant,4.1,,melanoma,histopathology,dermoscopic,IL_1829358,melanoma in situ,,,,,True,IP_5327237,male,,
+ISIC_6618014,Sydney Melanoma Diagnostic Center at Royal Prince Alfred Hospital,CC-BY,25.0,lower extremity,malignant,2.0,,melanoma,histopathology,dermoscopic,IL_6948222,melanoma in situ,,,,,True,IP_1295012,female,,
+ISIC_6873657,Sydney Melanoma Diagnostic Center at Royal Prince Alfred Hospital,CC-BY,55.0,lower extremity,malignant,2.4,,melanoma,histopathology,dermoscopic,IL_8704146,melanoma in situ,,,,,True,IP_7819131,male,,
+ISIC_6967412,Sydney Melanoma Diagnostic Center at Royal Prince Alfred Hospital,CC-BY,50.0,lower extremity,malignant,1.4,,melanoma,histopathology,dermoscopic,IL_0078150,melanoma in situ,,,,,True,IP_9124324,female,,
+ISIC_7429994,"""Repeated dermoscopic images of melanocytic lesions"" by University Hospital Basel / CC-BY-NC",CC-BY-NC,,,malignant,,contact non-polarized,melanoma,histopathology,dermoscopic,IL_2086872,invasive melanoma,,0.2,superficial spreading melanoma,,True,,,,
+ISIC_7485856,"""Repeated dermoscopic images of melanocytic lesions"" by University Hospital Basel / CC-BY-NC",CC-BY-NC,,,malignant,,contact non-polarized,melanoma,histopathology,dermoscopic,IL_2086872,invasive melanoma,,0.2,superficial spreading melanoma,,True,,,,
+ISIC_7560517,"""Repeated dermoscopic images of melanocytic lesions"" by University Hospital Basel / CC-BY-NC",CC-BY-NC,,,malignant,,contact non-polarized,melanoma,histopathology,dermoscopic,IL_2086872,invasive melanoma,,0.2,superficial spreading melanoma,,True,,,,
+ISIC_7594243,Sydney Melanoma Diagnostic Center at Royal Prince Alfred Hospital,CC-BY,45.0,head/neck,malignant,4.5,,melanoma,histopathology,dermoscopic,IL_8414535,melanoma in situ,,,,,True,IP_2677654,female,,
+ISIC_7927389,Sydney Melanoma Diagnostic Center at Royal Prince Alfred Hospital,CC-BY,40.0,lower extremity,malignant,2.1,,melanoma,histopathology,dermoscopic,IL_9876914,melanoma in situ,,,,,True,IP_4599256,female,,
+ISIC_7966639,"""Repeated dermoscopic images of melanocytic lesions"" by University Hospital Basel / CC-BY-NC",CC-BY-NC,,,malignant,,contact non-polarized,melanoma,histopathology,dermoscopic,IL_4402356,melanoma in situ,,,,,True,,,,
+ISIC_7980143,Sydney Melanoma Diagnostic Center at Royal Prince Alfred Hospital,CC-BY,65.0,posterior torso,malignant,4.8,,melanoma,histopathology,dermoscopic,IL_8922569,melanoma in situ,,,,,True,IP_7067247,male,,
+ISIC_8040663,Sydney Melanoma Diagnostic Center at Royal Prince Alfred Hospital,CC-BY,70.0,upper extremity,malignant,5.6,,melanoma,histopathology,dermoscopic,IL_5644356,melanoma in situ,,,,,True,IP_6257025,male,,
+ISIC_8348262,Sydney Melanoma Diagnostic Center at Royal Prince Alfred Hospital,CC-BY,35.0,lower extremity,malignant,2.0,,melanoma,histopathology,dermoscopic,IL_7804991,melanoma in situ,,,,,True,IP_5504028,female,,
+ISIC_8526666,"""Repeated dermoscopic images of melanocytic lesions"" by University Hospital Basel / CC-BY-NC",CC-BY-NC,,,malignant,,contact non-polarized,,single image expert consensus,dermoscopic,IL_1351938,,,,,,True,,,,
+ISIC_8592733,Sydney Melanoma Diagnostic Center at Royal Prince Alfred Hospital,CC-BY,50.0,upper extremity,malignant,1.3,,melanoma,histopathology,dermoscopic,IL_5294891,melanoma in situ,,,,,True,IP_1336435,male,,
+ISIC_8651648,"""Repeated dermoscopic images of melanocytic lesions"" by University Hospital Basel / CC-BY-NC",CC-BY-NC,,,malignant,,contact non-polarized,melanoma,histopathology,dermoscopic,IL_2086872,invasive melanoma,,0.2,superficial spreading melanoma,,True,,,,
+ISIC_8690492,Sydney Melanoma Diagnostic Center at Royal Prince Alfred Hospital,CC-BY,60.0,posterior torso,malignant,3.2,,melanoma,histopathology,dermoscopic,IL_3585493,melanoma in situ,,,,,True,IP_8439095,male,,
+ISIC_8758983,"""Repeated dermoscopic images of melanocytic lesions"" by University Hospital Basel / CC-BY-NC",CC-BY-NC,,,malignant,,contact non-polarized,melanoma,histopathology,dermoscopic,IL_2086872,invasive melanoma,,0.2,superficial spreading melanoma,,True,,,,
+ISIC_8864773,"""Repeated dermoscopic images of melanocytic lesions"" by University Hospital Basel / CC-BY-NC",CC-BY-NC,,,malignant,,contact non-polarized,melanoma,histopathology,dermoscopic,IL_2086872,invasive melanoma,,0.2,superficial spreading melanoma,,True,,,,
+ISIC_9051948,Sydney Melanoma Diagnostic Center at Royal Prince Alfred Hospital,CC-BY,45.0,upper extremity,malignant,2.2,,melanoma,histopathology,dermoscopic,IL_6680242,melanoma in situ,,,,,True,IP_4540588,female,,
+ISIC_9445977,"""Repeated dermoscopic images of melanocytic lesions"" by University Hospital Basel / CC-BY-NC",CC-BY-NC,,,malignant,,contact non-polarized,melanoma,histopathology,dermoscopic,IL_4402356,melanoma in situ,,,,,True,,,,
+ISIC_9543045,Sydney Melanoma Diagnostic Center at Royal Prince Alfred Hospital,CC-BY,30.0,posterior torso,malignant,8.2,,melanoma,histopathology,dermoscopic,IL_5515726,invasive melanoma,0/mm^2,0.9,,False,True,IP_4627929,male,,
+ISIC_9579159,"""Repeated dermoscopic images of melanocytic lesions"" by University Hospital Basel / CC-BY-NC",CC-BY-NC,,,malignant,,contact non-polarized,melanoma,histopathology,dermoscopic,IL_2086872,invasive melanoma,,0.2,superficial spreading melanoma,,True,,,,
+ISIC_9928278,Sydney Melanoma Diagnostic Center at Royal Prince Alfred Hospital,CC-BY,50.0,anterior torso,malignant,3.5,,melanoma,histopathology,dermoscopic,IL_2940342,melanoma in situ,,,,,True,IP_8523969,male,,
+ISIC_0094098,Hospital Italiano de Buenos Aires,CC-BY,65.0,posterior torso,malignant,,,melanoma,histopathology,clinical: overview,IL_6961144,,,,,,,IP_1218261,male,False,True
+ISIC_0214484,Sydney Melanoma Diagnostic Center at Royal Prince Alfred Hospital,CC-BY,45.0,lower extremity,malignant,4.9,,melanoma,histopathology,dermoscopic,IL_1952601,invasive melanoma,,1.0,,,True,IP_3291986,male,,
+ISIC_0413031,Hospital Italiano de Buenos Aires,CC-BY,85.0,,malignant,,contact polarized,basal cell carcinoma,histopathology,dermoscopic,IL_9777032,,,,,,,IP_6444963,male,,
+ISIC_0542742,Hospital Italiano de Buenos Aires,CC-BY,65.0,head/neck,malignant,,,basal cell carcinoma,histopathology,clinical: overview,IL_8012686,,,,,,,IP_9116795,female,,
+ISIC_0830433,Hospital Italiano de Buenos Aires,CC-BY,85.0,,malignant,,,basal cell carcinoma,histopathology,clinical: overview,IL_9777032,,,,,,,IP_6444963,male,,
+ISIC_1203272,Sydney Melanoma Diagnostic Center at Royal Prince Alfred Hospital,CC-BY,75.0,posterior torso,malignant,8.7,,melanoma,histopathology,dermoscopic,IL_8284178,invasive melanoma,,0.6,,,True,IP_7286860,female,,
+ISIC_1262790,Hospital Italiano de Buenos Aires,CC-BY,70.0,head/neck,malignant,,contact polarized,melanoma,histopathology,dermoscopic,IL_2551859,,,,,,,IP_4805821,male,,
+ISIC_1353101,Sydney Melanoma Diagnostic Center at Royal Prince Alfred Hospital,CC-BY,60.0,head/neck,malignant,6.5,,melanoma,histopathology,dermoscopic,IL_1927949,melanoma in situ,,,,,True,IP_6683521,male,,
+ISIC_1425492,Hospital Italiano de Buenos Aires,CC-BY,65.0,head/neck,malignant,,contact polarized,basal cell carcinoma,histopathology,dermoscopic,IL_8012686,,,,,,,IP_9116795,female,,
+ISIC_1452632,Hospital Italiano de Buenos Aires,CC-BY,65.0,posterior torso,malignant,,contact polarized,melanoma,histopathology,dermoscopic,IL_6961144,,,,,,,IP_1218261,male,False,True
+ISIC_1497097,Hospital Italiano de Buenos Aires,CC-BY,75.0,posterior torso,malignant,,contact polarized,basal cell carcinoma,histopathology,dermoscopic,IL_3412296,,,,,,,IP_8624681,male,False,False
+ISIC_1907579,Hospital Italiano de Buenos Aires,CC-BY,75.0,lower extremity,malignant,,contact polarized,basal cell carcinoma,histopathology,dermoscopic,IL_6020575,,,,,,,IP_4393692,male,,
+ISIC_1931730,Sydney Melanoma Diagnostic Center at Royal Prince Alfred Hospital,CC-BY,45.0,lower extremity,malignant,5.8,,melanoma,histopathology,dermoscopic,IL_5916191,melanoma in situ,,,,,True,IP_9103082,female,,
+ISIC_2107859,Hospital Italiano de Buenos Aires,CC-BY,65.0,head/neck,malignant,,,melanoma,histopathology,clinical: overview,IL_3211111,,,,,,,IP_1218261,male,False,True
+ISIC_2212637,Hospital Italiano de Buenos Aires,CC-BY,85.0,posterior torso,malignant,,contact polarized,melanoma,histopathology,dermoscopic,IL_5005356,,,,,,,IP_9093111,male,,True
+ISIC_2368449,Hospital Italiano de Buenos Aires,CC-BY,65.0,head/neck,malignant,,contact polarized,melanoma,histopathology,dermoscopic,IL_3211111,,,,,,,IP_1218261,male,False,True
+ISIC_2704825,Hospital Italiano de Buenos Aires,CC-BY,75.0,head/neck,malignant,,,basal cell carcinoma,histopathology,clinical: overview,IL_4901291,,,,,,,IP_8947694,female,,
+ISIC_2837034,Sydney Melanoma Diagnostic Center at Royal Prince Alfred Hospital,CC-BY,70.0,lower extremity,malignant,13.9,,melanoma,histopathology,dermoscopic,IL_7054835,invasive melanoma,,0.8,,,True,IP_1651414,female,,
+ISIC_3098914,Hospital Italiano de Buenos Aires,CC-BY,85.0,upper extremity,malignant,,,basal cell carcinoma,histopathology,clinical: overview,IL_1120407,,,,,,,IP_1173614,female,,True
+ISIC_3149813,Hospital Italiano de Buenos Aires,CC-BY,55.0,head/neck,malignant,,,basal cell carcinoma,histopathology,clinical: overview,IL_5244040,,,,,,,IP_6819963,female,,
+ISIC_3234368,Hospital Italiano de Buenos Aires,CC-BY,85.0,posterior torso,malignant,,,melanoma,histopathology,clinical: overview,IL_5005356,,,,,,,IP_9093111,male,,True
+ISIC_4326975,Hospital Italiano de Buenos Aires,CC-BY,60.0,,malignant,,contact polarized,melanoma,histopathology,dermoscopic,IL_3601366,,,,,,,IP_0240453,female,False,True
+ISIC_4561067,Sydney Melanoma Diagnostic Center at Royal Prince Alfred Hospital,CC-BY,70.0,upper extremity,malignant,12.2,,melanoma,histopathology,dermoscopic,IL_6216001,melanoma in situ,,,,,True,IP_5253646,male,,
+ISIC_4718954,Sydney Melanoma Diagnostic Center at Royal Prince Alfred Hospital,CC-BY,50.0,upper extremity,malignant,16.9,,melanoma,histopathology,dermoscopic,IL_9750267,melanoma in situ,,,,,True,IP_9904101,male,,
+ISIC_5449807,Hospital Italiano de Buenos Aires,CC-BY,75.0,lower extremity,malignant,,,basal cell carcinoma,histopathology,clinical: overview,IL_6020575,,,,,,,IP_4393692,male,,
+ISIC_5862918,Hospital Italiano de Buenos Aires,CC-BY,80.0,anterior torso,malignant,,contact polarized,melanoma,histopathology,dermoscopic,IL_7535821,,,,,,,IP_0906253,male,,
+ISIC_5911355,Hospital Italiano de Buenos Aires,CC-BY,75.0,posterior torso,malignant,,,basal cell carcinoma,histopathology,clinical: overview,IL_3412296,,,,,,,IP_8624681,male,False,False
+ISIC_5941322,Sydney Melanoma Diagnostic Center at Royal Prince Alfred Hospital,CC-BY,70.0,upper extremity,malignant,3.3,,melanoma,histopathology,dermoscopic,IL_4732104,melanoma in situ,,,,,True,IP_5253646,male,,
+ISIC_6230191,Hospital Italiano de Buenos Aires,CC-BY,25.0,anterior torso,malignant,,contact polarized,melanoma,histopathology,dermoscopic,IL_8124990,,,,,,,IP_8542863,male,,True
+ISIC_6263512,Hospital Italiano de Buenos Aires,CC-BY,85.0,upper extremity,malignant,,contact polarized,basal cell carcinoma,histopathology,dermoscopic,IL_1120407,,,,,,,IP_1173614,female,,True
+ISIC_6268236,Sydney Melanoma Diagnostic Center at Royal Prince Alfred Hospital,CC-BY,40.0,posterior torso,malignant,1.7,,melanoma,histopathology,dermoscopic,IL_9778197,melanoma in situ,,,,,True,IP_5491923,female,,
+ISIC_6578433,Sydney Melanoma Diagnostic Center at Royal Prince Alfred Hospital,CC-BY,60.0,posterior torso,malignant,5.4,,melanoma,histopathology,dermoscopic,IL_7800344,melanoma in situ,,,,,True,IP_6683521,male,,
+ISIC_6586433,Sydney Melanoma Diagnostic Center at Royal Prince Alfred Hospital,CC-BY,50.0,posterior torso,malignant,5.5,,melanoma,histopathology,dermoscopic,IL_8654461,melanoma in situ,,,,,True,IP_0083448,male,,
+ISIC_6736065,Hospital Italiano de Buenos Aires,CC-BY,70.0,posterior torso,malignant,,,squamous cell carcinoma,histopathology,clinical: overview,IL_4890198,,,,,,,IP_8382257,female,,
+ISIC_6800726,Hospital Italiano de Buenos Aires,CC-BY,75.0,head/neck,malignant,,contact polarized,basal cell carcinoma,histopathology,dermoscopic,IL_4901291,,,,,,,IP_8947694,female,,
+ISIC_7330470,Sydney Melanoma Diagnostic Center at Royal Prince Alfred Hospital,CC-BY,55.0,head/neck,malignant,5.5,,melanoma,histopathology,dermoscopic,IL_9685942,melanoma in situ,,,,,True,IP_6403942,male,,
+ISIC_7338073,Sydney Melanoma Diagnostic Center at Royal Prince Alfred Hospital,CC-BY,70.0,posterior torso,malignant,9.3,,melanoma,histopathology,dermoscopic,IL_3555856,melanoma in situ,,,,,True,IP_5253646,male,,
+ISIC_7373164,Hospital Italiano de Buenos Aires,CC-BY,70.0,head/neck,malignant,,contact polarized,melanoma,histopathology,dermoscopic,IL_2551859,,,,,,,IP_4805821,male,,
+ISIC_7541596,Hospital Italiano de Buenos Aires,CC-BY,70.0,head/neck,malignant,,contact polarized,melanoma,histopathology,dermoscopic,IL_2551859,,,,,,,IP_4805821,male,,
+ISIC_8253057,Sydney Melanoma Diagnostic Center at Royal Prince Alfred Hospital,CC-BY,65.0,posterior torso,malignant,5.0,,melanoma,histopathology,dermoscopic,IL_7486606,melanoma in situ,,,,,True,IP_2632538,male,,
+ISIC_8331605,Sydney Melanoma Diagnostic Center at Royal Prince Alfred Hospital,CC-BY,55.0,head/neck,malignant,7.9,,melanoma,histopathology,dermoscopic,IL_4150891,melanoma in situ,,,,,True,IP_6403942,male,,
+ISIC_8786983,Hospital Italiano de Buenos Aires,CC-BY,65.0,head/neck,malignant,,contact polarized,melanoma,histopathology,dermoscopic,IL_6841868,,,,,,,IP_5804995,male,False,True
+ISIC_8788296,Hospital Italiano de Buenos Aires,CC-BY,85.0,lower extremity,malignant,,contact polarized,basal cell carcinoma,histopathology,dermoscopic,IL_7230509,,,,,,,IP_4836760,male,,
+ISIC_8793798,Hospital Italiano de Buenos Aires,CC-BY,60.0,,malignant,,,melanoma,histopathology,clinical: overview,IL_3601366,,,,,,,IP_0240453,female,False,True
+ISIC_9098311,Hospital Italiano de Buenos Aires,CC-BY,65.0,head/neck,malignant,,,melanoma,histopathology,clinical: overview,IL_6841868,,,,,,,IP_5804995,male,False,True
+ISIC_9176427,Sydney Melanoma Diagnostic Center at Royal Prince Alfred Hospital,CC-BY,50.0,lateral torso,malignant,4.2,,melanoma,histopathology,dermoscopic,IL_8862378,invasive melanoma,1/mm^2,0.7,,False,True,IP_8034465,male,,
+ISIC_9195841,Hospital Italiano de Buenos Aires,CC-BY,70.0,head/neck,malignant,,,melanoma,histopathology,clinical: overview,IL_2551859,,,,,,,IP_4805821,male,,
+ISIC_9211210,Hospital Italiano de Buenos Aires,CC-BY,70.0,posterior torso,malignant,,contact polarized,squamous cell carcinoma,histopathology,dermoscopic,IL_4890198,,,,,,,IP_8382257,female,,
+ISIC_9320992,Sydney Melanoma Diagnostic Center at Royal Prince Alfred Hospital,CC-BY,40.0,lower extremity,malignant,4.9,,melanoma,histopathology,dermoscopic,IL_1506779,melanoma in situ,,,,,True,IP_7496321,female,,
+ISIC_9677008,Hospital Italiano de Buenos Aires,CC-BY,30.0,posterior torso,malignant,,contact polarized,melanoma,histopathology,dermoscopic,IL_3556705,,,,,,,IP_5493434,female,,True
+ISIC_0133379,Hospital Italiano de Buenos Aires,CC-BY,65.0,head/neck,malignant,,,basal cell carcinoma,histopathology,clinical: overview,IL_3383993,,,,,,,IP_3342129,female,,
+ISIC_0133773,Hospital Italiano de Buenos Aires,CC-BY,80.0,upper extremity,malignant,,,basal cell carcinoma,histopathology,clinical: overview,IL_1022413,,,,,,,IP_6640998,female,,
+ISIC_0330896,Hospital Italiano de Buenos Aires,CC-BY,85.0,head/neck,malignant,,,basal cell carcinoma,histopathology,clinical: overview,IL_7198013,,,,,,,IP_2844264,female,,
+ISIC_1000675,Hospital Italiano de Buenos Aires,CC-BY,80.0,upper extremity,malignant,,,melanoma,histopathology,clinical: overview,IL_3632801,,,,,,,IP_6640998,female,,
+ISIC_1135829,Hospital Italiano de Buenos Aires,CC-BY,70.0,lower extremity,malignant,,,melanoma,histopathology,clinical: overview,IL_4512262,,,,,,,IP_4216830,female,,
+ISIC_1241693,Hospital Italiano de Buenos Aires,CC-BY,75.0,lower extremity,malignant,,contact polarized,squamous cell carcinoma,histopathology,dermoscopic,IL_0983679,,,,,,,IP_1418688,female,,
+ISIC_1346627,Hospital Italiano de Buenos Aires,CC-BY,50.0,lower extremity,malignant,,,melanoma,histopathology,clinical: overview,IL_3798662,,,,,,,IP_0682714,female,,
+ISIC_1642069,Hospital Italiano de Buenos Aires,CC-BY,65.0,upper extremity,malignant,,contact polarized,melanoma,histopathology,dermoscopic,IL_5703090,,,,,,,IP_8631699,female,False,True
+ISIC_1816965,Hospital Italiano de Buenos Aires,CC-BY,80.0,anterior torso,malignant,,contact polarized,melanoma,histopathology,dermoscopic,IL_9975476,,,,,,,IP_5892304,male,,
+ISIC_1831970,Hospital Italiano de Buenos Aires,CC-BY,50.0,anterior torso,malignant,,,basal cell carcinoma,histopathology,clinical: overview,IL_1878538,,,,,,,IP_4253242,female,False,False
+ISIC_2035987,Hospital Italiano de Buenos Aires,CC-BY,55.0,posterior torso,malignant,,,squamous cell carcinoma,histopathology,clinical: overview,IL_4336943,,,,,,,IP_3739383,female,True,True
+ISIC_2070728,Hospital Italiano de Buenos Aires,CC-BY,50.0,anterior torso,malignant,,contact polarized,melanoma,histopathology,dermoscopic,IL_8939141,,,,,,,IP_9516151,male,,
+ISIC_2211948,Hospital Italiano de Buenos Aires,CC-BY,85.0,lower extremity,malignant,,contact polarized,melanoma,histopathology,dermoscopic,IL_4891081,,,,,,,IP_0325006,female,,
+ISIC_2277714,Hospital Italiano de Buenos Aires,CC-BY,80.0,anterior torso,malignant,,contact polarized,melanoma,histopathology,dermoscopic,IL_3229123,,,,,,,IP_6640998,female,,
+ISIC_2317385,Hospital Italiano de Buenos Aires,CC-BY,55.0,head/neck,malignant,,contact polarized,basal cell carcinoma,histopathology,dermoscopic,IL_5244040,,,,,,,IP_6819963,female,,
+ISIC_2729912,Hospital Italiano de Buenos Aires,CC-BY,80.0,head/neck,malignant,,,squamous cell carcinoma,histopathology,clinical: overview,IL_7949381,,,,,,,IP_7872950,male,False,False
+ISIC_3073256,Hospital Italiano de Buenos Aires,CC-BY,65.0,head/neck,malignant,,contact polarized,basal cell carcinoma,histopathology,dermoscopic,IL_0316981,,,,,,,IP_3342129,female,,
+ISIC_3381026,Hospital Italiano de Buenos Aires,CC-BY,80.0,upper extremity,malignant,,contact polarized,melanoma,histopathology,dermoscopic,IL_3632801,,,,,,,IP_6640998,female,,
+ISIC_3749849,Hospital Italiano de Buenos Aires,CC-BY,75.0,upper extremity,malignant,,contact polarized,squamous cell carcinoma,histopathology,dermoscopic,IL_1248740,,,,,,,IP_1418688,female,,
+ISIC_4082554,Hospital Italiano de Buenos Aires,CC-BY,80.0,anterior torso,malignant,,,melanoma,histopathology,clinical: overview,IL_9975476,,,,,,,IP_5892304,male,,
+ISIC_4407852,Hospital Italiano de Buenos Aires,CC-BY,80.0,anterior torso,malignant,,contact polarized,melanoma,histopathology,dermoscopic,IL_9975476,,,,,,,IP_5892304,male,,
+ISIC_4679927,Hospital Italiano de Buenos Aires,CC-BY,70.0,anterior torso,malignant,,contact polarized,basal cell carcinoma,histopathology,dermoscopic,IL_8688599,,,,,,,IP_2175925,male,,
+ISIC_5033005,Hospital Italiano de Buenos Aires,CC-BY,70.0,lower extremity,malignant,,contact polarized,melanoma,histopathology,dermoscopic,IL_4512262,,,,,,,IP_4216830,female,,
+ISIC_5059671,Hospital Italiano de Buenos Aires,CC-BY,85.0,lower extremity,malignant,,,melanoma,histopathology,clinical: overview,IL_4891081,,,,,,,IP_0325006,female,,
+ISIC_5086718,Hospital Italiano de Buenos Aires,CC-BY,85.0,head/neck,malignant,,,basal cell carcinoma,histopathology,clinical: overview,IL_9686443,,,,,,,IP_5924149,female,,
+ISIC_5481480,Hospital Italiano de Buenos Aires,CC-BY,75.0,upper extremity,malignant,,contact polarized,melanoma,histopathology,dermoscopic,IL_7782929,,,,,,,IP_0093557,female,,True
+ISIC_5521474,Hospital Italiano de Buenos Aires,CC-BY,85.0,head/neck,malignant,,contact polarized,basal cell carcinoma,histopathology,dermoscopic,IL_9686443,,,,,,,IP_5924149,female,,
+ISIC_5610304,Hospital Italiano de Buenos Aires,CC-BY,80.0,upper extremity,malignant,,contact polarized,melanoma,histopathology,dermoscopic,IL_3632801,,,,,,,IP_6640998,female,,
+ISIC_5746105,Hospital Italiano de Buenos Aires,CC-BY,75.0,anterior torso,malignant,,contact polarized,squamous cell carcinoma,histopathology,dermoscopic,IL_2584095,,,,,,,IP_0093557,female,,True
+ISIC_5794546,Hospital Italiano de Buenos Aires,CC-BY,80.0,upper extremity,malignant,,contact polarized,basal cell carcinoma,histopathology,dermoscopic,IL_1022413,,,,,,,IP_6640998,female,,
+ISIC_5848879,Hospital Italiano de Buenos Aires,CC-BY,75.0,anterior torso,malignant,,,squamous cell carcinoma,histopathology,clinical: overview,IL_2584095,,,,,,,IP_0093557,female,,True
+ISIC_5940534,Hospital Italiano de Buenos Aires,CC-BY,75.0,lower extremity,malignant,,,squamous cell carcinoma,histopathology,clinical: overview,IL_0983679,,,,,,,IP_1418688,female,,
+ISIC_6069561,Hospital Italiano de Buenos Aires,CC-BY,80.0,head/neck,malignant,,contact polarized,basal cell carcinoma,histopathology,dermoscopic,IL_4104011,,,,,,,IP_7872950,male,False,False
+ISIC_6119596,Hospital Italiano de Buenos Aires,CC-BY,35.0,anterior torso,malignant,,contact polarized,basal cell carcinoma,histopathology,dermoscopic,IL_8573962,,,,,,,IP_9002218,female,,
+ISIC_6253779,Hospital Italiano de Buenos Aires,CC-BY,70.0,upper extremity,malignant,,contact polarized,basal cell carcinoma,histopathology,dermoscopic,IL_9547816,,,,,,,IP_7708591,male,,
+ISIC_6315176,Hospital Italiano de Buenos Aires,CC-BY,70.0,lower extremity,malignant,,contact polarized,melanoma,histopathology,dermoscopic,IL_4512262,,,,,,,IP_4216830,female,,
+ISIC_6689070,Hospital Italiano de Buenos Aires,CC-BY,65.0,head/neck,malignant,,,basal cell carcinoma,histopathology,clinical: overview,IL_0316981,,,,,,,IP_3342129,female,,
+ISIC_7231071,Hospital Italiano de Buenos Aires,CC-BY,75.0,upper extremity,malignant,,,melanoma,histopathology,clinical: overview,IL_7782929,,,,,,,IP_0093557,female,,True
+ISIC_7439706,Hospital Italiano de Buenos Aires,CC-BY,55.0,posterior torso,malignant,,contact polarized,squamous cell carcinoma,histopathology,dermoscopic,IL_4336943,,,,,,,IP_3739383,female,True,True
+ISIC_7481097,Hospital Italiano de Buenos Aires,CC-BY,50.0,anterior torso,malignant,,contact polarized,basal cell carcinoma,histopathology,dermoscopic,IL_1878538,,,,,,,IP_4253242,female,False,False
+ISIC_7560813,Hospital Italiano de Buenos Aires,CC-BY,80.0,head/neck,malignant,,contact polarized,squamous cell carcinoma,histopathology,dermoscopic,IL_7949381,,,,,,,IP_7872950,male,False,False
+ISIC_7931985,Hospital Italiano de Buenos Aires,CC-BY,85.0,lower extremity,malignant,,contact polarized,melanoma,histopathology,dermoscopic,IL_8807627,,,,,,,IP_4704077,female,False,True
+ISIC_8095537,Hospital Italiano de Buenos Aires,CC-BY,75.0,upper extremity,malignant,,,squamous cell carcinoma,histopathology,clinical: overview,IL_1248740,,,,,,,IP_1418688,female,,
+ISIC_8384844,Hospital Italiano de Buenos Aires,CC-BY,65.0,,malignant,,contact polarized,basal cell carcinoma,histopathology,dermoscopic,IL_4874075,,,,,,,IP_3388406,male,False,False
+ISIC_8495716,Hospital Italiano de Buenos Aires,CC-BY,35.0,anterior torso,malignant,,,basal cell carcinoma,histopathology,clinical: overview,IL_8573962,,,,,,,IP_9002218,female,,
+ISIC_8544566,Hospital Italiano de Buenos Aires,CC-BY,70.0,anterior torso,malignant,,,basal cell carcinoma,histopathology,clinical: overview,IL_8688599,,,,,,,IP_2175925,male,,
+ISIC_8803373,Hospital Italiano de Buenos Aires,CC-BY,65.0,,malignant,,,basal cell carcinoma,histopathology,clinical: overview,IL_4874075,,,,,,,IP_3388406,male,False,False
+ISIC_8987984,Hospital Italiano de Buenos Aires,CC-BY,50.0,lower extremity,malignant,,contact polarized,melanoma,histopathology,dermoscopic,IL_3798662,,,,,,,IP_0682714,female,,
+ISIC_9078177,Hospital Italiano de Buenos Aires,CC-BY,65.0,head/neck,malignant,,contact polarized,basal cell carcinoma,histopathology,dermoscopic,IL_3383993,,,,,,,IP_3342129,female,,
+ISIC_9486550,Hospital Italiano de Buenos Aires,CC-BY,70.0,lower extremity,malignant,,contact polarized,melanoma,histopathology,dermoscopic,IL_4512262,,,,,,,IP_4216830,female,,
+ISIC_0206756,Hospital Italiano de Buenos Aires,CC-BY,35.0,lower extremity,malignant,,contact polarized,melanoma,histopathology,dermoscopic,IL_3250161,,,,,,,IP_9393377,female,False,True
+ISIC_0579124,Hospital Italiano de Buenos Aires,CC-BY,75.0,head/neck,malignant,,contact polarized,squamous cell carcinoma,histopathology,dermoscopic,IL_2429626,,,,,,,IP_1729411,male,,
+ISIC_0625744,Hospital Italiano de Buenos Aires,CC-BY,50.0,lateral torso,malignant,,contact polarized,melanoma,histopathology,dermoscopic,IL_0174675,,,,,,,IP_3418123,male,False,True
+ISIC_0647125,Hospital Italiano de Buenos Aires,CC-BY,70.0,head/neck,malignant,,,basal cell carcinoma,histopathology,clinical: overview,IL_9840135,,,,,,,IP_7923120,male,,
+ISIC_0898734,Hospital Italiano de Buenos Aires,CC-BY,55.0,posterior torso,malignant,,contact polarized,basal cell carcinoma,histopathology,dermoscopic,IL_1570524,,,,,,,IP_5719687,female,False,True
+ISIC_1091339,Hospital Italiano de Buenos Aires,CC-BY,70.0,head/neck,malignant,,contact polarized,basal cell carcinoma,histopathology,dermoscopic,IL_0455383,,,,,,,IP_5801898,female,False,False
+ISIC_1341581,Hospital Italiano de Buenos Aires,CC-BY,80.0,posterior torso,malignant,,,basal cell carcinoma,histopathology,clinical: overview,IL_0526105,,,,,,,IP_5048300,male,,
+ISIC_1859657,Hospital Italiano de Buenos Aires,CC-BY,55.0,head/neck,malignant,,contact polarized,basal cell carcinoma,histopathology,dermoscopic,IL_7568646,,,,,,,IP_5719687,female,False,True
+ISIC_2228720,Hospital Italiano de Buenos Aires,CC-BY,75.0,lower extremity,malignant,,contact polarized,basal cell carcinoma,histopathology,dermoscopic,IL_2025836,,,,,,,IP_5398777,male,,
+ISIC_2706694,Hospital Italiano de Buenos Aires,CC-BY,70.0,anterior torso,malignant,,contact polarized,basal cell carcinoma,histopathology,dermoscopic,IL_1694184,,,,,,,IP_5801898,female,False,False
+ISIC_3069438,Hospital Italiano de Buenos Aires,CC-BY,75.0,lower extremity,malignant,,,basal cell carcinoma,histopathology,clinical: overview,IL_2025836,,,,,,,IP_5398777,male,,
+ISIC_3299133,Hospital Italiano de Buenos Aires,CC-BY,70.0,lateral torso,malignant,,,melanoma,histopathology,clinical: overview,IL_0834101,,,,,,,IP_5138682,male,,
+ISIC_3311204,Hospital Italiano de Buenos Aires,CC-BY,60.0,lower extremity,malignant,,,melanoma,histopathology,clinical: overview,IL_6936924,,,,,,,IP_7362744,male,,
+ISIC_3518630,Hospital Italiano de Buenos Aires,CC-BY,70.0,lateral torso,malignant,,contact polarized,melanoma,histopathology,dermoscopic,IL_0834101,,,,,,,IP_5138682,male,,
+ISIC_3932849,Hospital Italiano de Buenos Aires,CC-BY,70.0,head/neck,malignant,,contact polarized,squamous cell carcinoma,histopathology,dermoscopic,IL_7399308,,,,,,,IP_7923120,male,,
+ISIC_4117958,Hospital Italiano de Buenos Aires,CC-BY,80.0,head/neck,malignant,,,basal cell carcinoma,histopathology,clinical: overview,IL_9092931,,,,,,,IP_7513395,female,,
+ISIC_4462757,Hospital Italiano de Buenos Aires,CC-BY,80.0,posterior torso,malignant,,contact polarized,basal cell carcinoma,histopathology,dermoscopic,IL_0526105,,,,,,,IP_5048300,male,,
+ISIC_4489445,Hospital Italiano de Buenos Aires,CC-BY,70.0,head/neck,malignant,,,squamous cell carcinoma,histopathology,clinical: overview,IL_7399308,,,,,,,IP_7923120,male,,
+ISIC_4661821,Hospital Italiano de Buenos Aires,CC-BY,70.0,anterior torso,malignant,,,melanoma,histopathology,clinical: overview,IL_9000367,,,,,,,IP_4626612,male,,
+ISIC_4719387,Hospital Italiano de Buenos Aires,CC-BY,70.0,anterior torso,malignant,,contact polarized,melanoma,histopathology,dermoscopic,IL_9000367,,,,,,,IP_4626612,male,,
+ISIC_4750998,Hospital Italiano de Buenos Aires,CC-BY,80.0,head/neck,malignant,,contact polarized,basal cell carcinoma,histopathology,dermoscopic,IL_9092931,,,,,,,IP_7513395,female,,
+ISIC_5007109,Hospital Italiano de Buenos Aires,CC-BY,85.0,upper extremity,malignant,,contact polarized,basal cell carcinoma,histopathology,dermoscopic,IL_5682932,,,,,,,IP_5543648,female,,
+ISIC_5024302,Hospital Italiano de Buenos Aires,CC-BY,75.0,head/neck,malignant,,contact polarized,melanoma,histopathology,dermoscopic,IL_8955295,,,,,,,IP_2359644,male,False,True
+ISIC_5036479,Hospital Italiano de Buenos Aires,CC-BY,85.0,head/neck,malignant,,contact polarized,basal cell carcinoma,histopathology,dermoscopic,IL_1038560,,,,,,,IP_5543648,female,,
+ISIC_5081865,Hospital Italiano de Buenos Aires,CC-BY,50.0,lateral torso,malignant,,,melanoma,histopathology,clinical: overview,IL_0174675,,,,,,,IP_3418123,male,False,True
+ISIC_5164664,Hospital Italiano de Buenos Aires,CC-BY,65.0,head/neck,malignant,,contact polarized,basal cell carcinoma,histopathology,dermoscopic,IL_5969628,,,,,,,IP_6579706,male,,
+ISIC_5408518,Hospital Italiano de Buenos Aires,CC-BY,65.0,head/neck,malignant,,,basal cell carcinoma,histopathology,clinical: overview,IL_5969628,,,,,,,IP_6579706,male,,
+ISIC_5529430,Hospital Italiano de Buenos Aires,CC-BY,55.0,upper extremity,malignant,,contact polarized,basal cell carcinoma,histopathology,dermoscopic,IL_6414572,,,,,,,IP_5719687,female,False,True
+ISIC_5784016,Hospital Italiano de Buenos Aires,CC-BY,70.0,upper extremity,malignant,,,squamous cell carcinoma,histopathology,clinical: overview,IL_2144167,,,,,,,IP_8369422,female,,
+ISIC_5815174,Hospital Italiano de Buenos Aires,CC-BY,85.0,head/neck,malignant,,,basal cell carcinoma,histopathology,clinical: overview,IL_1038560,,,,,,,IP_5543648,female,,
+ISIC_5836857,Hospital Italiano de Buenos Aires,CC-BY,75.0,head/neck,malignant,,,melanoma,histopathology,clinical: overview,IL_8955295,,,,,,,IP_2359644,male,False,True
+ISIC_6652468,Hospital Italiano de Buenos Aires,CC-BY,70.0,anterior torso,malignant,,,basal cell carcinoma,histopathology,clinical: overview,IL_1427673,,,,,,,IP_7923120,male,,
+ISIC_6713497,Hospital Italiano de Buenos Aires,CC-BY,50.0,posterior torso,malignant,,contact polarized,basal cell carcinoma,histopathology,dermoscopic,IL_9603815,,,,,,,IP_0936356,female,False,False
+ISIC_6824249,Hospital Italiano de Buenos Aires,CC-BY,70.0,upper extremity,malignant,,contact polarized,squamous cell carcinoma,histopathology,dermoscopic,IL_2144167,,,,,,,IP_8369422,female,,
+ISIC_7410617,Hospital Italiano de Buenos Aires,CC-BY,35.0,,malignant,,contact polarized,basal cell carcinoma,histopathology,dermoscopic,IL_6199400,,,,,,,IP_8208875,female,False,False
+ISIC_7465137,Hospital Italiano de Buenos Aires,CC-BY,60.0,lower extremity,malignant,,contact polarized,melanoma,histopathology,dermoscopic,IL_6936924,,,,,,,IP_7362744,male,,
+ISIC_7597095,Hospital Italiano de Buenos Aires,CC-BY,75.0,lower extremity,malignant,,contact polarized,basal cell carcinoma,histopathology,dermoscopic,IL_2025836,,,,,,,IP_5398777,male,,
+ISIC_7739038,Hospital Italiano de Buenos Aires,CC-BY,75.0,lower extremity,malignant,,contact polarized,basal cell carcinoma,histopathology,dermoscopic,IL_2025836,,,,,,,IP_5398777,male,,
+ISIC_7838914,Hospital Italiano de Buenos Aires,CC-BY,,head/neck,malignant,,contact polarized,basal cell carcinoma,histopathology,dermoscopic,IL_7619293,,,,,,,IP_2179904,male,,
+ISIC_7934367,Hospital Italiano de Buenos Aires,CC-BY,70.0,head/neck,malignant,,contact polarized,basal cell carcinoma,histopathology,dermoscopic,IL_9840135,,,,,,,IP_7923120,male,,
+ISIC_8035370,Hospital Italiano de Buenos Aires,CC-BY,70.0,anterior torso,malignant,,contact polarized,basal cell carcinoma,histopathology,dermoscopic,IL_1427673,,,,,,,IP_7923120,male,,
+ISIC_8097277,Hospital Italiano de Buenos Aires,CC-BY,70.0,head/neck,malignant,,,basal cell carcinoma,histopathology,clinical: overview,IL_0455383,,,,,,,IP_5801898,female,False,False
+ISIC_8664178,Hospital Italiano de Buenos Aires,CC-BY,35.0,lower extremity,malignant,,,melanoma,histopathology,clinical: overview,IL_3250161,,,,,,,IP_9393377,female,False,True
+ISIC_8841175,Hospital Italiano de Buenos Aires,CC-BY,85.0,upper extremity,malignant,,,basal cell carcinoma,histopathology,clinical: overview,IL_5682932,,,,,,,IP_5543648,female,,
+ISIC_9074861,Hospital Italiano de Buenos Aires,CC-BY,50.0,head/neck,malignant,,contact polarized,basal cell carcinoma,histopathology,dermoscopic,IL_3176026,,,,,,,IP_4079884,female,False,False
+ISIC_9600064,Hospital Italiano de Buenos Aires,CC-BY,75.0,head/neck,malignant,,,melanoma,histopathology,clinical: overview,IL_8955295,,,,,,,IP_2359644,male,False,True
+ISIC_9683541,Hospital Italiano de Buenos Aires,CC-BY,75.0,head/neck,malignant,,,squamous cell carcinoma,histopathology,clinical: overview,IL_2429626,,,,,,,IP_1729411,male,,
+ISIC_9706840,Hospital Italiano de Buenos Aires,CC-BY,70.0,upper extremity,malignant,,contact polarized,squamous cell carcinoma,histopathology,dermoscopic,IL_2144167,,,,,,,IP_8369422,female,,
+ISIC_9804428,Hospital Italiano de Buenos Aires,CC-BY,55.0,head/neck,malignant,,contact polarized,basal cell carcinoma,histopathology,dermoscopic,IL_2378537,,,,,,,IP_5719687,female,False,True
+ISIC_9922955,Hospital Italiano de Buenos Aires,CC-BY,70.0,anterior torso,malignant,,,basal cell carcinoma,histopathology,clinical: overview,IL_1694184,,,,,,,IP_5801898,female,False,False
