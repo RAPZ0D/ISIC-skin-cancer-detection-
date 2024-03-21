@@ -12,4 +12,4 @@ This dataset is free and open source, researchers often use datasets like the IS
 Convolutional Neural Networks (CNNs) are a powerful class of deep learning models widely used for image analysis tasks like skin cancer detection. In Python, frameworks like TensorFlow, Keras, and PyTorch provide efficient tools for building and training CNN models. CNNs automatically learn features from raw image data, making them well-suited for tasks where manual feature extraction is challenging. With their ability to capture spatial hierarchies and leverage transfer learning, CNNs offer a promising approach for accurate and reliable skin cancer detection.
 
 ## Introduction
-
+I'm a data science and AI student who got excited about Convolutional Neural Networks (CNNs). While learning about CNNs, I found the ISIC website. It's a great place with lots of free data and challenges about skin problems. This got me thinking: why not use CNNs to help detect skin cancer?
