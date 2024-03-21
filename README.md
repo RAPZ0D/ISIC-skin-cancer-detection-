@@ -8,3 +8,8 @@ What is ISIC?
 The International Skin Imaging Collaboration, the ISIC Archive is a repository of dermatoscopic images that researchers and developers can use for training and evaluating algorithms for skin cancer detection. The dataset contains images of various skin lesions, including benign and malignant lesions. Each image is typically associated with metadata, such as diagnostic information and lesion characteristics.
 This dataset is free and open source, researchers often use datasets like the ISIC Archive to train machine learning models, including Convolutional Neural Networks (CNNs), for automated skin cancer diagnosis. These models can assist dermatologists in early detection and classification of skin lesions.
 
+# Skin Cancer Detection using Convolutional Neural Networks in Python Programming Language 
+Convolutional Neural Networks (CNNs) are a powerful class of deep learning models widely used for image analysis tasks like skin cancer detection. In Python, frameworks like TensorFlow, Keras, and PyTorch provide efficient tools for building and training CNN models. CNNs automatically learn features from raw image data, making them well-suited for tasks where manual feature extraction is challenging. With their ability to capture spatial hierarchies and leverage transfer learning, CNNs offer a promising approach for accurate and reliable skin cancer detection.
+
+## Introduction
+
