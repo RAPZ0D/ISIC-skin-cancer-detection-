@@ -17,3 +17,30 @@ I'm a data science and AI student who got excited about Convolutional Neural Net
 I was inspired by all the resources on the ISIC website and decided to give it a try. My goal is simple: to use CNNs to tell if a skin lesion is harmful (malignant) or not (benign). This project is my way of learning more about CNNs and doing something meaningful at the same time. I wanted to make a simple but good model I hope to learn more about CNNs and also help fight skin cancer along the way.
 
 ## Methodology 
+This methodology is an explanation of whay I have done in my Convolution Neural Network
+- **Initialising the CNN**:
+  - Create a Sequential model, which allows you to stack layers one after the other.
+  
+- **Step 1 - Convolution**:
+  - Add a Conv2D layer with 32 filters, a kernel size of 3x3, and ReLU activation function.
+  - Specify the input shape as (128, 128, 3) for images with a resolution of 128x128 pixels and 3 color channels (RGB).
+
+- **Step 2 - Pooling**:
+  - Add a MaxPooling2D layer with a pool size of 2x2 and strides of 2 to downsample the feature maps.
+
+- **Adding a second convolutional layer**:
+  - Add another Conv2D layer with similar specifications as the first convolutional layer.
+  - Follow it with another MaxPooling2D layer for further downsampling.
+
+- **Step 3 - Flattening**:
+  - Flatten the 3D feature maps into a 1D vector to feed into the fully connected layers.
+
+- **Step 4 - Full Connection**:
+  - Add a Dense layer with 128 units and ReLU activation function.
+
+- **Step 5 - Output Layer**:
+  - Add the output layer with 1 unit and a sigmoid activation function for binary classification (malignant or benign).
+
+- **Compiling the CNN**:
+  - Compile the model using the Adam optimizer and binary crossentropy loss function for binary classification.
+  - Specify 'accuracy' as the metric to monitor during training.
