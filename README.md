@@ -13,3 +13,5 @@ Convolutional Neural Networks (CNNs) are a powerful class of deep learning model
 
 ## Introduction
 I'm a data science and AI student who got excited about Convolutional Neural Networks (CNNs). While learning about CNNs, I found the ISIC website. It's a great place with lots of free data and challenges about skin problems. This got me thinking: why not use CNNs to help detect skin cancer?
+
+I was inspired by all the resources on the ISIC website and decided to give it a try. My goal is simple: to use CNNs to tell if a skin lesion is harmful (malignant) or not (benign). This project is my way of learning more about CNNs and doing something meaningful at the same time.
