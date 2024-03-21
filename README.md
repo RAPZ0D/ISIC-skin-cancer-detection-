@@ -44,3 +44,19 @@ This methodology is an explanation of whay I have done in my Convolution Neural 
 - **Compiling the CNN**:
   - Compile the model using the Adam optimizer and binary crossentropy loss function for binary classification.
   - Specify 'accuracy' as the metric to monitor during training.
+
+## Results
+
+- **Training Accuracy**:
+  - Gradually increased from approximately 53.67% to 95.00%
+
+- **Validation Accuracy**:
+  - Fluctuated between approximately 50.00% and 91.00%
+
+- **Training Loss**:
+  - Decreased from approximately 1.07 to 0.13
+
+- **Validation Loss**:
+  - Varied between approximately 0.25 and 0.99
+
+While the model achieved high accuracy on the training set, there seems to be some overfitting as the validation accuracy fluctuated. This indicates that the model may benefit from further hyperparameter tuning to generalize better to unseen data. However, even with these results, the model shows promise in distinguishing between malignant and benign skin lesions.
