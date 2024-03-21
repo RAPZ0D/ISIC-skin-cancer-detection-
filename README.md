@@ -1,5 +1,7 @@
 # ISIC-skin-cancer-detection-
-This is a skin cancer detection model, created by using the data from ISIC (The International Skin Imaging Collaboration​)
+This is a skin cancer detection model, created by using the data from ISIC (The International Skin Imaging Collaboration​) 
+If you want to check out their official page here is the link to their website: 
+[ISIC Website](https://www.isic-archive.com/)
 
 ## ISIC DATASET 
 What is ISIC? 
