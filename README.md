@@ -60,3 +60,11 @@ This methodology is an explanation of whay I have done in my Convolution Neural 
   - Varied between approximately 0.25 and 0.99
 
 While the model achieved high accuracy on the training set, there seems to be some overfitting as the validation accuracy fluctuated. This indicates that the model may benefit from further hyperparameter tuning to generalize better to unseen data. However, even with these results, the model shows promise in distinguishing between malignant and benign skin lesions.
+
+## References
+
+- [ISIC Skin Lesion Analysis Towards Melanoma Detection](https://challenge.isic-archive.com/data/)
+
+- [ISIC - International Skin Imaging Collaboration](https://www.isic-archive.com/)
+
+- Tschandl, P., Wurm, M., et al. (2021). Human vs. Artificial Intelligence in Dermatology: A Comparative Study in the Detection of Malignant Melanoma on Clinical Images and Melanocytic Lesions in Histopathological Images. *Journal of Investigative Dermatology*, 141(10), 2307-2316. DOI: [10.1016/j.jid.2021.02.030](https://www.sciencedirect.com/science/article/pii/S1361841521003509)
